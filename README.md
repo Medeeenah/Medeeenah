@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Medeeenah
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning full stack engineering
-- 💞️ I’m looking to collaborate on several [rojects
+- 👀 I’m interested in software engineering, Data Science and Machine learning
+- 🌱 I’m currently working on data science/ ML projects
+- 💞️ I’m looking to collaborate projects
 - 📫 How to reach me my email- subairmedinah@gmail.com
 
 <!---
